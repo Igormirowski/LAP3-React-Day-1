@@ -2,7 +2,8 @@
 - `npx create-react-app monday`
 - cd into `monday` folder
 - `npm start` (see port 3000)
-- 
+SPA - single page application (one page only of html file)
+- tidy up (remove some stuff)
 ##
 
 ##
