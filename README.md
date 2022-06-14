@@ -1,11 +1,14 @@
 # LAP 3 REACT PRACTICE
 - `npx create-react-app monday`
+- cd into `monday` folder
+- `npm start` (see port 3000)
+- 
+##
 
+##
 
-
-
-
-
+###
+###
 
 
 # Getting Started with Create React App
